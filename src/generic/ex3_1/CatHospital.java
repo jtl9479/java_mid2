@@ -1,7 +1,6 @@
 package generic.ex3_1;
 
 import generic.animal_1.Cat;
-import generic.animal_1.Dog;
 
 public class CatHospital {
     private Cat animal;
